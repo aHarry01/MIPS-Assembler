@@ -1,5 +1,5 @@
 # Basic MIPS Assembler
-Generates machine code from 32-bit MIPS assembly code. Only supports a small subset of the MIPS32 ISA. Currently working to add more instructions (j, jr, jal, etc).
+Generates machine code from MIPS assembly code. Only supports a small subset of the MIPS32 ISA. Currently working to add more instructions (j, jr, jal, etc).
 
 ## Usage:
 Run MIPS_assembler.py. At the prompt, input name of file containing MIPS assembly code. Provide file path if it's not in the same folder. The following limitations apply:
